@@ -1,0 +1,19 @@
+why
+theme song
+thank you/thanks
+remind me
+how are you
+list commands
+telltime/time
+set alarm
+remove alarm
+list alarms
+say hello/say hi
+goodnight
+play radio/play music
+stop radio/play music
+adjust volume
+party
+weather/forcast
+look up/wikipedia
+nevermind
